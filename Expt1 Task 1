@@ -7,11 +7,11 @@ Dif - F
 
 int main () {
 
-    printf("\nName = Mohammad Ayan Khan.");
-    printf("\nAge = 19.");
+    printf("\nName = Arslaan Solapur.");
+    printf("\nAge = 18.");
     printf("\nClass = FE / Mechanical.");
     printf("\nDiv = F.");
-    printf("\nUIN = 251M031.");
+    printf("\nUIN = 251M025.");
 
     return 0;
 }
